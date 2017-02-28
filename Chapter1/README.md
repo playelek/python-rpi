@@ -1,16 +1,6 @@
 # เริ่มต้นใช้งาน Raspberry Pi
 
-Configuring your network manually
 
-ff
-
-Networking directly to a laptop or computer
-
-ff
-
-Networking and connecting your Raspberry Pi to the Internet via a USB Wi-Fi dongle
-
-ff
 
 Connecting to the Internet through a proxy server
 
