@@ -10,7 +10,9 @@
 
 IDLE
 
-IDLE ย่อมาขาก the Integrated Development Environment เป็นได้ทั้ง Shell และ Text Editor ในตัวที่มาพร้อมกับ Interpreter ของ python หน้าตาสะอาด ใช้งานง่าย เหมาะกับมือใหม่ โดยใน Raspbian จะมีมาให้ 2 ตัวคือ IDLE2 และ IDLE3
+IDLE ย่อมาขาก the Integrated Development Environment เป็นได้ทั้ง Shell และ Text Editor ในตัวที่มาพร้อมกับ Interpreter ของ python หน้าตาสะอาด ใช้งานง่าย เหมาะกับมือใหม่ โดยใน Raspbian จะมีมาให้ 2 ตัวคือ IDLE2 และ IDLE3 ซึ่งในเล่มนี้เราใช้ python3 ต้องใช้ IDLE3
+
+
 
 Geany
 
