@@ -1,4 +1,4 @@
-## Text Editors
+## แนะนำ Text Editors
 
 มี Text Editor หลายตัวที่ติดตั้งมากับ Raspbian ที่สามารถใช้เขียน Python ได้
 

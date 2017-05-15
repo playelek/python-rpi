@@ -1,2 +1,4 @@
-สำรวจ Raspbian และการใช้งาน
+เริ่มต้น Python บน Raspberry Pi
+
+
 
