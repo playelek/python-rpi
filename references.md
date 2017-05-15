@@ -2,7 +2,9 @@
 
 [https://leanpub.com/pi](https://leanpub.com/pi)
 
-https://leanpub.com/RPiMRE
+[https://leanpub.com/RPiMRE](https://leanpub.com/RPiMRE)
+
+https://leanpub.com/jerpi
 
 
 
