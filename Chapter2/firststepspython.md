@@ -4,8 +4,6 @@ Environment
 
 ใน Directory /home/pi เราสร้างโฟลเดอร์ชื่อ py\_projects ขึ้นมา
 
-
-
 Comments
 
 บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด  ใช้เครื่องหมาย \# นำหน้าบรรทัด
@@ -18,25 +16,17 @@ Comments
 
 ##### อยู่คนละบรรทัดกับโค้ด
 
-`# ความงามล้ำค่ากว่าไร้ระเบียบ`
+`# ความชัดแจ้งมีความหมายกว่าทุกนัยยะ`
 
-`print ('Beautiful is better than ugly.')`
+`print ('Explicit is better than implicit.')`
 
 ##### แบบหลายบรรทัด
 
-`# ความงามล้ำค่ากว่าไร้ระเบียบ`
+`# ความเรียบง่ายสมบูรณ์กว่าซับซ้อน`
 
-`# ความชัดแจ้งมีความหมายกว่าทุกนัยยะ                    `
+`# แต่ความซับซ้อนก็ยังดีกว่าความสับสน`
 
-`# ความเรียบง่ายสมบูรณ์กว่าซับซ้อน`
-
-`# แต่ความซับซ้อนก็ยังดีกว่าความสับสน`
-
-`print ('Beautiful is better than ugly.') `
-
-`print ('Explicit is better than implicit.')                     `
-
-`print ('Simple is better than complex.') `
+`print ('Simple is better than complex.')`
 
 `print ('Complex is better than complicated.')`
 
