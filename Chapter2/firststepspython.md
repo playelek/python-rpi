@@ -4,9 +4,25 @@ Environment
 
 ใน Directory /home/pi เราสร้างโฟลเดอร์ชื่อ py\_projects ขึ้นมา
 
+#### Printing
 
+'ข้อความ' หรือ "ข้อความ"
 
-Print
+##### ตัวอย่าง
+
+พิมพ์ข้อความบรรทัดเดียว
+
+print\('Hello, World!'\)
+
+พิมพ์หลายบรรทัด
+
+print \('Beautiful is better than ugly.'\)
+
+print \('Explicit is better than 'implicit.'\)
+
+print \('"Simple" is better than "complex".'\) 
+
+print \("'Complex' is better than 'complicated'."\)
 
 #### Comments
 
