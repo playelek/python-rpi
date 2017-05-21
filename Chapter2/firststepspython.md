@@ -4,11 +4,11 @@ Environment
 
 ใน Directory /home/pi เราสร้างโฟลเดอร์ชื่อ py\_projects ขึ้นมา
 
-#### Printing
+### Printing
 
 'ข้อความ' หรือ "ข้อความ"
 
-##### ตัวอย่าง
+#### ตัวอย่าง
 
 พิมพ์ข้อความบรรทัดเดียว
 
@@ -24,7 +24,19 @@ Environment
 
 `print ("'Complex' is better than 'complicated'.")`
 
-#### Comments
+triple ''' '''" ในกระณีต้องการพิมพ์หลายบรรทัด
+
+`print ('''Beautiful is better than ugly.`
+
+`Explicit is better than implicit.`
+
+`"Simple" is better than "complex".`
+
+`'Complex' is better than 'complicated'.''')`
+
+
+
+### Comments
 
 บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด โดยข้อความนั้นจะไม่ถูก execue ให้ใช้เครื่องหมาย \# \( number sign/hash \) นำหน้าบรรทัด ซึ่งจะทำการ comment ไปจนสุดบรรทัด ใน Python ไม่มีระบบ comment แบบหลายบรรทัด ถ้าต้องการ comment หลายบรรทัดก็ต้องทำการใส่ \# ไว้นำหน้าทุกบรรทัดที่ต้องการ
 
@@ -50,5 +62,9 @@ Environment
 
 `print ('Complex is better than complicated.')`
 
-Numbers
+### Numbers
+
+ตัวเลขใน python มี 2 ประเภทคือ integers \( จำนวนเต็ม \) และ floats \( ทศนิยม \)
+
+
 
