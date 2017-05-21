@@ -16,13 +16,13 @@ Environment
 
 พิมพ์หลายบรรทัด
 
-print \('Beautiful is better than ugly.'\)
+`print ('Beautiful is better than ugly.')`
 
-print \('Explicit is better than 'implicit.'\)
+`print ('Explicit is better than 'implicit.')`
 
-print \('"Simple" is better than "complex".'\)
+`print ('"Simple" is better than "complex".')`
 
-print \("'Complex' is better than 'complicated'."\)
+`print ("'Complex' is better than 'complicated'.")`
 
 #### Comments
 
