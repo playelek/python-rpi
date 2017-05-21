@@ -18,7 +18,7 @@ Environment
 
 `print ('Beautiful is better than ugly.')`
 
-`print ("Explicit is better than implicit.")` 
+`print ("Explicit is better than implicit.")`
 
 `print ('"Simple" is better than "complex".')`
 
@@ -26,7 +26,7 @@ Environment
 
 #### Comments
 
-บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด  ใช้เครื่องหมาย \# \(number sign/hash\)นำหน้าบรรทัด
+บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด โดยข้อความนั้นจะไม่ถูก execue ให้ใช้เครื่องหมาย \# \( number sign/hash \) นำหน้าบรรทัด ซึ่งจะทำการ comment ไปจนสุดบรรทัด ใน Python ไม่มีระบบ comment แบบหลายบรรทัด ถ้าต้องการ comment หลายบรรทัดก็ต้องทำการใส่ \# ไว้นำหน้าทุกบรรทัดที่ต้องการ
 
 #### **ตัวอย่าง**
 
