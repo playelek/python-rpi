@@ -10,3 +10,11 @@ python
 
 [https://learnpythonthehardway.org/python3/](https://learnpythonthehardway.org/python3/)
 
+https://devahoy.com/posts/learn-python-with-pycharm-edu/
+
+https://learnpythonthehardway.org/python3/ex3.html
+
+https://www.raspberrypi.org/learning/python-intro/
+
+http://keancode.github.io/python/str-number.html
+
