@@ -58,7 +58,7 @@ Environment
 
 ตัวเลขใน python มี 2 ประเภทคือ integers \( จำนวนเต็ม \) และ floats \( ทศนิยม \)
 
-Operators and Expression
+### Operators and Expressions
 
 ใน python
 
