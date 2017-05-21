@@ -6,9 +6,11 @@
 
 [https://leanpub.com/jerpi](https://leanpub.com/jerpi)
 
-
-
 python
 
-https://en.wikibooks.org/wiki/Non-Programmer%27s\_Tutorial\_for\_Python\_3/Print\_version
+[https://en.wikibooks.org/wiki/Non-Programmer's\_Tutorial\_for\_Python\_3/Print\_version](https://en.wikibooks.org/wiki/Non-Programmer's_Tutorial_for_Python_3/Print_version)
+
+https://learnpythonthehardway.org/python3/
+
+
 
