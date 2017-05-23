@@ -62,7 +62,7 @@ Environment
 
 ใน python
 
-* บวก, - ลบ, / หาร, \* คูณ, % modulo, &lt; น้อยกว่า, &gt; มากกว่า, &lt;=less-than-equal, &gt;=greater-than-equal
++ บวก, - ลบ, / หาร, \* คูณ, % modulo, &lt; น้อยกว่า, &gt; มากกว่า, &lt;=less-than-equal, &gt;=greater-than-equal
 
 ### String
 
@@ -75,4 +75,8 @@ triple ''' '''" ในกระณีต้องการพิมพ์หล�
 `"Simple" is better than "complex".`
 
 `'Complex' is better than 'complicated'.''')`
+
+
+
+
 
