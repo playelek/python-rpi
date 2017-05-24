@@ -4,17 +4,13 @@ Environment
 
 ใน Directory /home/pi เราสร้างโฟลเดอร์ชื่อ py\_projects ขึ้นมา
 
-### Printing
+### String
 
-'ข้อความ' หรือ "ข้อความ"
+'ข้อความ' หรือ "ข้อความ" หรือ """ข้อความหลายบรรทัด"""
 
 #### ตัวอย่าง
 
-พิมพ์ข้อความบรรทัดเดียว
-
-`print('Hello, World!')`
-
-พิมพ์หลายบรรทัด
+แบบบรรทัดเดียว
 
 `print ('Beautiful is better than ugly.')`
 
@@ -23,6 +19,18 @@ Environment
 `print ('"Simple" is better than "complex".')`
 
 `print ("'Complex' is better than 'complicated'.")`
+
+แบบข้อความหลายบรรทัด
+
+print \("""Flat is better than nested.
+
+Sparse is better than dense.
+
+Readability counts.
+
+Special cases aren't special enough to break the rules."""\)
+
+
 
 ### INDENTATION
 
@@ -75,10 +83,6 @@ triple ''' '''" ในกระณีต้องการพิมพ์หล�
 `"Simple" is better than "complex".`
 
 `'Complex' is better than 'complicated'.''')`
-
-
-
-
 
 test
 
