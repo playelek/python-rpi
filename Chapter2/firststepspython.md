@@ -6,7 +6,7 @@ Environment
 
 ### String
 
-'ข้อความ' หรือ "ข้อความ" หรือ """ข้อความหลายบรรทัด"""
+'ข้อความ' หรือ "ข้อความ" ซึ่งทั้งสองแบบแสดงผลเหมือนกันไม่แตกต่าง และ """ข้อความหลาย""" จะใช้กับข้อความหลายบรรทัด
 
 #### ตัวอย่าง
 
@@ -22,15 +22,14 @@ Environment
 
 แบบข้อความหลายบรรทัด
 
-print \("""Flat is better than nested.
+`print ("""Flat is better than nested.`
 
-Sparse is better than dense.
+`Sparse is better than dense.`
 
-Readability counts.
+`Readability counts.`
 
-Special cases aren't special enough to break the rules."""\)
-
-
+`Special cases aren't special enough to break the rules."""    
+)`
 
 ### INDENTATION
 
