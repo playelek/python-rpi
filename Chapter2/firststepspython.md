@@ -28,7 +28,7 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""      
+`Special cases aren't special enough to break the rules."""        
 )`
 
 ### INDENTATION
