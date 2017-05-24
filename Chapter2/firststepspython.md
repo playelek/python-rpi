@@ -28,7 +28,7 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""    
+`Special cases aren't special enough to break the rules."""      
 )`
 
 ### INDENTATION
@@ -37,7 +37,7 @@ Environment
 
 ### Comments
 
-บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด โดยข้อความนั้นจะไม่ถูก execue ให้ใช้เครื่องหมาย \# \( number sign/hash/pound \) นำหน้าบรรทัด ซึ่งจะทำการ comment ไปจนสุดบรรทัด ใน Python ไม่มีระบบ comment แบบหลายบรรทัด ถ้าต้องการ comment หลายบรรทัดก็ต้องทำการใส่ \# ไว้นำหน้าทุกบรรทัดที่ต้องการ
+บ่อยครั้งที่เราต้องการทิ้งคำอธิบายไว้ในโค้ด โดยข้อความนั้นจะไม่ถูก execue ให้ใช้เครื่องหมาย \# \( number sign/hash/pound \) นำหน้าบรรทัด ซึ่งจะทำการ comment ไปจนสุดบรรทัด ใน Python ไม่มีระบบ comment แบบหลายบรรทัด ถ้าต้องการ comment หลายบรรทัดก็ต้องทำการใส่ \# นำหน้าทุกบรรทัดที่ต้องการ
 
 #### **ตัวอย่าง**
 
@@ -71,17 +71,7 @@ Environment
 
 * บวก, - ลบ, / หาร, \* คูณ, % modulo, &lt; น้อยกว่า, &gt; มากกว่า, &lt;=less-than-equal, &gt;=greater-than-equal
 
-### String
+### 
 
-triple ''' '''" ในกระณีต้องการพิมพ์หลายบรรทัด
 
-`print ('''Beautiful is better than ugly.`
-
-`Explicit is better than implicit.`
-
-`"Simple" is better than "complex".`
-
-`'Complex' is better than 'complicated'.''')`
-
-test
 
