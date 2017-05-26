@@ -28,7 +28,7 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""        
+`Special cases aren't special enough to break the rules."""          
 )`
 
 ### INDENTATION
@@ -70,6 +70,12 @@ Environment
 ใน python
 
 * บวก, - ลบ, / หาร, \* คูณ, % modulo, &lt; น้อยกว่า, &gt; มากกว่า, &lt;=less-than-equal, &gt;=greater-than-equal
+
+
+
+Order Of Operation
+
+PEMDAS as PE\(M&D\)\(A&S\)
 
 ### 
 
