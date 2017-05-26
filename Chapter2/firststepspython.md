@@ -6,7 +6,7 @@ Environment
 
 Hello World
 
-เมื่อสภาพแวดล้อมสำหรับเริ่มเขียนโปรแกรมพร้อมแล้ว มาทักทายกันด้วยการพิมพ์ประโยคอะไรซักหน่อยขึ้นมาดีกว่า แน่นอนคำยอดฮิต ก็ Hello World นั่นเอง ที่จริงจะแทนด้วยประโยคอะไรก็ได้นะเอาที่คุณอยากพิมพ์เลย \(ลองไปหาดูประวัติว่าทำไมถึง hello world กันที่นี่\)
+เมื่อสภาพแวดล้อมสำหรับเริ่มเขียนโปรแกรมพร้อมแล้ว มาทักทายกันด้วยการพิมพ์ประโยคอะไรซักหน่อยขึ้นมาดีกว่า แน่นอนคำยอดฮิต ก็ Hello World นั่นเอง ที่จริงจะแทนด้วยประโยคอะไรก็ได้นะเอาที่คุณอยากพิมพ์เลย \(ลองไปหาดูประวัติว่าทำไมถึง hello world กันใน appendix\)
 
 print\('Hello World'\)
 
@@ -34,7 +34,7 @@ print\('Hello World'\)
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""                      
+`Special cases aren't special enough to break the rules."""                        
 )`
 
 `print('''Although practicality beats purity.`
