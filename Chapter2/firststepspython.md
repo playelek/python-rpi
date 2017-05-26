@@ -28,14 +28,14 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""              
+`Special cases aren't special enough to break the rules."""                
 )`
 
-`print('''Although practicality beats purity.`
+`print('''Although practicality beats purity.`
 
-`Errors should never pass silently.`
+`Errors should never pass silently.`
 
-`Unless explicitly silenced.`
+`Unless explicitly silenced.`
 
 `In the face of ambiguity, refuse the temptation to guess.''')`
 
@@ -82,6 +82,18 @@ Environment
 Order Of Operation
 
 PEMDAS as PE\(M&D\)\(A&S\)
+
+
+
+The format method
+
+`age = 20`
+
+`name = 'Swaroop'`
+
+`print('{0} was {1} years old when he wrote this book'.format(name, age))`
+
+`print('Why is {0} playing with that python?'.format(name))`
 
 ### 
 
