@@ -6,7 +6,7 @@ Environment
 
 ### String
 
-'ข้อความ' หรือ "ข้อความ" ซึ่งทั้งสองแบบแสดงผลเหมือนกันไม่แตกต่าง และ """ข้อความหลาย""" จะใช้กับข้อความหลายบรรทัด
+'ข้อความ' หรือ "ข้อความ" ซึ่งทั้งสองแบบแสดงผลเหมือนกันไม่แตกต่าง และ """ข้อความ""" หรือ '''ข้อความ''' จะใช้กับข้อความหลายบรรทัด
 
 #### ตัวอย่าง
 
@@ -28,7 +28,7 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""          
+`Special cases aren't special enough to break the rules."""            
 )`
 
 ### INDENTATION
@@ -70,8 +70,6 @@ Environment
 ใน python
 
 * บวก, - ลบ, / หาร, \* คูณ, % modulo, &lt; น้อยกว่า, &gt; มากกว่า, &lt;=less-than-equal, &gt;=greater-than-equal
-
-
 
 Order Of Operation
 
