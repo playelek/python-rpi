@@ -4,6 +4,12 @@ Environment
 
 ใน Directory /home/pi เราสร้างโฟลเดอร์ชื่อ py\_projects ขึ้นมา
 
+Hello World
+
+เมื่อสภาพแวดล้อมสำหรับเริ่มเขียนโปรแกรมพร้อมแล้ว มาทักทายกันด้วยการพิมพ์ประโยคอะไรซักหน่อยขึ้นมาดีกว่า แน่นอนคำยอดฮิต ก็ Hello World นั่นเอง ที่จริงจะแทนด้วยประโยคอะไรก็ได้นะเอาที่คุณอยากพิมพ์เลย \(ลองไปหาดูประวัติว่าทำไมถึง hello world กันที่นี่\)
+
+print\('Hello World'\)
+
 ### String
 
 'ข้อความ' หรือ "ข้อความ" ซึ่งทั้งสองแบบแสดงผลเหมือนกันไม่แตกต่าง และ """ข้อความ""" หรือ '''ข้อความ''' จะใช้กับข้อความหลายบรรทัด
@@ -28,7 +34,7 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""                
+`Special cases aren't special enough to break the rules."""                      
 )`
 
 `print('''Although practicality beats purity.`
@@ -83,15 +89,13 @@ Order Of Operation
 
 PEMDAS as PE\(M&D\)\(A&S\)
 
-
-
 The format method
 
-`age = 20`
+`age = 20`
 
-`name = 'Swaroop'`
+`name = 'Swaroop'`
 
-`print('{0} was {1} years old when he wrote this book'.format(name, age))`
+`print('{0} was {1} years old when he wrote this book'.format(name, age))`
 
 `print('Why is {0} playing with that python?'.format(name))`
 
