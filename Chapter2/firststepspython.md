@@ -28,8 +28,16 @@ Environment
 
 `Readability counts.`
 
-`Special cases aren't special enough to break the rules."""            
+`Special cases aren't special enough to break the rules."""              
 )`
+
+`print('''Although practicality beats purity.`
+
+`Errors should never pass silently.`
+
+`Unless explicitly silenced.`
+
+`In the face of ambiguity, refuse the temptation to guess.''')`
 
 ### INDENTATION
 
